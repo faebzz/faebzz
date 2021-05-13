@@ -1,4 +1,4 @@
-#Hi, I’m @faebzz
+## Hi, I’m @faebzz
 
 - 👀  I’m interested in Software Development & Cooking
 - 🌱  I’m currently learning how to contribute to open source projects
